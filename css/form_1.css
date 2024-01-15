@@ -1,0 +1,54 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+	overflow: hidden;
+}
+h2{
+	text-align: center;
+	font-family: sans-serif;
+}
+label{
+	font-size: 20px;
+}
+.first_name,.last_name,.mobile_number{
+	width: 60%;
+	height: 25px;
+	font-size:15px ;
+	padding: 6px;
+}
+.email_address,.new_password{
+	width: 80%;
+	height: 25px;
+	font-size:15px ;
+	padding: 6px;
+}
+.message{
+	font-size: 17px;
+
+}
+.button{
+	font-size: 17px;
+	padding: 10px;
+	background-color: lightsteelblue;
+}
+.wrapper2{
+	width: 60%;
+	margin: 0 auto;
+	border:  5px solid #ddd; ;
+}
+h3{
+	text-align: center;
+	font-size: 25px;
+	font-family: sans-serif;
+	
+}
+table{
+	width: 100%;
+	border: 1px solid;
+}
+th,td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid;
+}
